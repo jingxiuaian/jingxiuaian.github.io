@@ -1,0 +1,5 @@
+# 验收临时产物：可由 tools/qa 下脚本重跑生成，不纳入版本存档
+tools/qa/chrome-probe.err.log
+tools/qa/report.json
+tools/qa/static-report.json
+tools/qa/shots/
